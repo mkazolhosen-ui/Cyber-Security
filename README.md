@@ -31,7 +31,7 @@ I’m a Computer Science student building practical skills in networking, securi
 | ------- | ---------- | ------------- | ---------------------------------- |
 |Meow      |Easy|                  Completed|
 |Fawn      |Easy|                   Completed|
-|Dancing | Easy       | ✅ Completed   | [Writeup](htb/machines/dancing.md) |
+|Dancing | Easy          | Completed   | [Writeup](htb/machines/dancing.md) |
 | Lame    | Easy       | ⏳ In Progress | -                                  |
 
 ---
