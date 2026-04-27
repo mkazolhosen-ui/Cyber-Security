@@ -1,11 +1,11 @@
-# 👨‍💻 Md Kazol Hosen — Cybersecurity Journey
+#  Md Kazol Hosen — Cybersecurity Journey
 
 Welcome to my cybersecurity learning portfolio 🚀
 I’m a Computer Science student building practical skills in networking, security, and ethical hacking.
 
 ---
 
-## 🎯 Goals
+##  Goals
 
 * Become a skilled **penetration tester**
 * Master **networking & web security**
@@ -14,7 +14,7 @@ I’m a Computer Science student building practical skills in networking, securi
 
 ---
 
-## 🛠️ Skills I'm Learning
+##  Skills I'm Learning
 
 * Networking (TCP/IP, OSI, Subnetting)
 * Linux Fundamentals
@@ -23,9 +23,9 @@ I’m a Computer Science student building practical skills in networking, securi
 
 ---
 
-## 🧪 Labs & Practice
+## Labs & Practice
 
-### 🔐 Hack The Box Progress
+### Hack The Box Progress
 
 | Machine | Difficulty | Status        | Notes                              |
 | ------- | ---------- | ------------- | ---------------------------------- |
@@ -34,7 +34,7 @@ I’m a Computer Science student building practical skills in networking, securi
 
 ---
 
-## 🧰 Tools I Use
+##  Tools I Use
 
 * Nmap
 * Burp Suite
@@ -44,7 +44,7 @@ I’m a Computer Science student building practical skills in networking, securi
 
 ---
 
-## 📒 Notes & Learning
+## Notes & Learning
 
 I document everything I learn:
 
@@ -54,14 +54,14 @@ I document everything I learn:
 
 ---
 
-## 📅 Daily Progress
+## Daily Progress
 
 Check my learning log here:
 👉 [Daily Log](notes/daily-log.md)
 
 ---
 
-## 🚀 Projects
+## Projects
 
 * Custom Port Scanner (Python)
 * Automation Scripts
@@ -69,7 +69,7 @@ Check my learning log here:
 
 ---
 
-## 📌 Philosophy
+##  Philosophy
 
 > Learn → Practice → Break → Fix → Repeat
 
