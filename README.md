@@ -1,6 +1,6 @@
 #  Md Kazol Hosen — Cybersecurity Journey
 
-Welcome to my cybersecurity learning portfolio 🚀
+Welcome to my cybersecurity learning portfolio.
 I’m a Computer Science student building practical skills in networking, security, and ethical hacking.
 
 ---
@@ -57,7 +57,7 @@ I document everything I learn:
 ## Daily Progress
 
 Check my learning log here:
-👉 [Daily Log](notes/daily-log.md)
+[Daily Log](notes/daily-log.md)
 
 ---
 
