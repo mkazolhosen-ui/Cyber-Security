@@ -29,11 +29,11 @@ I am a Computer Science student focused on building practical skills in **networ
 ###  Hack The Box Progress
 
 | Machine | Difficulty | Status        | Notes                              |
-| ------- | ---------- | ------------- | ---------------------------------- |
+| ------- | ---------- | -------------- | ---------------------------------- |
 | Meow    | Easy       | ✅ Completed   | [Writeup](htb/machines/meow.md)   |
 | Fawn    | Easy       | ✅ Completed   | [Writeup](htb/machines/fawn.md)    |
 | Dancing | Easy       | ✅ Completed   | [Writeup](htb/machines/dancing.md) |
-| Redeemer| Easy       |       Completed   | [Writeup](htb/machines/redeemer.md) |
+| Redeemer| Easy       |    Completed   | [Writeup](htb/machines/redeemer.md) |
 
 ---
 
