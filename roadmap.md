@@ -105,9 +105,9 @@ Become a well-rounded **Cybersecurity Professional** with strong skills in both:
 ##  Practice Goals
 
 * ✅ 20 Easy HTB Machines
-* ⏳ 10 Medium Machines
-* ⏳ 5 Hard Machines
-* ⏳ 5 Blue Team Labs
+* 10 Medium Machines
+*  5 Hard Machines
+*  5 Blue Team Labs
 
 ---
 
