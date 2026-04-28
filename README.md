@@ -30,10 +30,10 @@ I am a Computer Science student focused on building practical skills in **networ
 
 | Machine   | Difficulty | Status        | Notes |
 |----------|-----------|--------------|------|
-| Meow     | Easy      | ✅ Completed  | [Writeup](htb/machines/meow.md) |
-| Fawn     | Easy      | ✅ Completed  | [Writeup](htb/machines/fawn.md) |
-| Dancing  | Easy      | ✅ Completed  | [Writeup](htb/machines/dancing.md) |
-| Redeemer | Easy      | ✅ Completed  | [Writeup](htb/machines/redeemer.md) |
+| Meow     |Very Easy  | ✅ Completed  | [Writeup](htb/machines/meow.md) |
+| Fawn     |Very Easy  | ✅ Completed  | [Writeup](htb/machines/fawn.md) |
+| Dancing  |Very Easy  | ✅ Completed  | [Writeup](htb/machines/dancing.md) |
+| Redeemer |Very Easy  | ✅ Completed  | [Writeup](htb/machines/redeemer.md) |
 
 ---
 
