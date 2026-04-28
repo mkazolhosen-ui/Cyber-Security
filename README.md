@@ -33,7 +33,7 @@ I am a Computer Science student focused on building practical skills in **networ
 | Meow    | Easy       | ✅ Completed   | [Writeup](htb/machines/Meow.md)   |
 | Fawn    | Easy       | ✅ Completed   | [Writeup](htb/machines/Fawn.md)    |
 | Dancing | Easy       | ✅ Completed   | [Writeup](htb/machines/dancing.md) |
-| Redeemer    | Easy       |  completed | [Writeup](htb/machines/Redeemer.md) |
+| Redeemer    | Easy   |    Completed | [Writeup](htb/machines/Redeemer.md) |
 
 ---
 
