@@ -98,3 +98,44 @@ Hands-on Practice (HTB Starting Point)
 
 * Start "Redeemer"
 * Learn Redis basics
+
+
+## 2026-03-05
+
+### Focus
+
+Redis Enumeration & HTB Practice
+
+###  Key Concepts
+
+* Redis database basics
+* Unauthenticated service exposure
+* Key-value data retrieval
+
+### 🧪Practical Work
+
+* Completed HTB "Redeemer"
+* Connected using:
+  redis-cli -h 10.129.136.187
+* Retrieved keys using:
+  keys *
+* Extracted flag using:
+  get flag
+
+###  Challenges
+
+* First time interacting with Redis
+* Didn’t know commands initially
+
+### Insights
+
+* Some services don’t require authentication (critical misconfiguration)
+* Enumeration is often enough to gain access
+* Always check for open databases like Redis
+
+### Next Steps
+
+* Practice more enumeration techniques
+* Start next HTB machine (Explosion / Preignition)
+* Learn basic database security concepts
+
