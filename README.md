@@ -1,42 +1,43 @@
-#  Md Kazol Hosen — Cybersecurity Journey
+# Md Kazol Hosen — Cybersecurity Journey
 
 Welcome to my cybersecurity learning portfolio.
-I’m a Computer Science student building practical skills in networking, security, and ethical hacking.
+I am a Computer Science student focused on building practical skills in **networking, ethical hacking, and cybersecurity fundamentals**.
 
 ---
 
-##  Goals
+##  Career Goals
 
-* Become a skilled **penetration tester**
-* Master **networking & web security**
+* Become a skilled **Cybersecurity Professional**
+* Specialize in **Penetration Testing (Offensive Security)**
+* Build strong foundations in **Networking & Web Security**
 * Solve real-world labs (HTB, TryHackMe)
-* Build tools & scripts
+* Develop security tools & automation scripts
 
 ---
 
-##  Skills I'm Learning
+## 🧠 Skills in Progress
 
-* Networking (TCP/IP, OSI, Subnetting)
+* Networking → TCP/IP, OSI Model, Subnetting
 * Linux Fundamentals
-* Web Security (XSS, SQLi, Auth bypass)
-* Security Tools (Nmap, Burp Suite, Wireshark)
+*  Web Security → XSS, SQL Injection, Authentication Bypass
+*  Security Tools → Nmap, Burp Suite, Wireshark
 
 ---
 
 ## Labs & Practice
 
-### Hack The Box Progress
+###  Hack The Box Progress
 
 | Machine | Difficulty | Status        | Notes                              |
 | ------- | ---------- | ------------- | ---------------------------------- |
-|Meow      |Easy|                  Completed|
-|Fawn      |Easy|                   Completed|
-|Dancing | Easy          | Completed   | [Writeup](htb/machines/dancing.md) |
+| Meow    | Easy       | ✅ Completed   | -                                  |
+| Fawn    | Easy       | ✅ Completed   | -                                  |
+| Dancing | Easy       | ✅ Completed   | [Writeup](htb/machines/dancing.md) |
 | Lame    | Easy       | ⏳ In Progress | -                                  |
 
 ---
 
-##  Tools I Use
+## Tools I Use
 
 * Nmap
 * Burp Suite
@@ -46,24 +47,24 @@ I’m a Computer Science student building practical skills in networking, securi
 
 ---
 
-## Notes & Learning
+##  Notes & Learning
 
-I document everything I learn:
+I actively document my learning:
 
-* Networking → `/networking`
+* Networking  `/networking`
 * Web Security → `/web-security`
-* Tools → `/tools`
+* Tools  `/tools`
 
 ---
 
 ## Daily Progress
 
-Check my learning log here:
-[Daily Log](notes/daily-log.md)
+Track my consistency and learning journey here:
+👉 [Daily Log](notes/daily-log.md)
 
 ---
 
-## Projects
+## 🚀 Projects
 
 * Custom Port Scanner (Python)
 * Automation Scripts
@@ -71,10 +72,18 @@ Check my learning log here:
 
 ---
 
-##  Philosophy
+## 🧭 Roadmap
 
-> Learn → Practice → Break → Fix → Repeat
+See my structured learning path:
+👉 [Roadmap](roadmap.md)
 
 ---
 
-⭐ This repository tracks my growth. Consistency over perfection.
+## Philosophy
+
+> Learn → Practice → Break → Analyze → Improve → Repeat
+
+---
+
+⭐ This repository represents my continuous growth in cybersecurity.
+Consistency and hands-on practice are my core focus.
