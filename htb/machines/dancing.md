@@ -7,7 +7,7 @@
 | Field      | Value   |
 | ---------- | ------- |
 | Name       | Dancing |
-| Difficulty | Easy    |
+| Difficulty |Very Easy|
 | OS         | Windows |
 
 ---
