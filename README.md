@@ -33,7 +33,7 @@ I am a Computer Science student focused on building practical skills in **networ
 | Meow    | Easy       | ✅ Completed   | -                                  |
 | Fawn    | Easy       | ✅ Completed   | -                                  |
 | Dancing | Easy       | ✅ Completed   | [Writeup](htb/machines/dancing.md) |
-| Lame    | Easy       | ⏳ In Progress | -                                  |
+| Lame    | Easy       |  In Progress | -                                  |
 
 ---
 
@@ -72,10 +72,10 @@ Track my consistency and learning journey here:
 
 ---
 
-## 🧭 Roadmap
+## Roadmap
 
 See my structured learning path:
-👉 [Roadmap](roadmap.md)
+ [Roadmap](roadmap.md)
 
 ---
 
