@@ -143,4 +143,4 @@ This machine highlights how **improper SMB configuration** can expose sensitive 
 
 ---
 
-⚠️ For educational purposes only.
+For educational purposes only.
