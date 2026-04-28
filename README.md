@@ -60,11 +60,11 @@ I actively document my learning:
 ## Daily Progress
 
 Track my consistency and learning journey here:
-👉 [Daily Log](notes/daily-log.md)
+ [Daily Log](notes/daily-log.md)
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 * Custom Port Scanner (Python)
 * Automation Scripts
