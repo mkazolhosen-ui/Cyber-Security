@@ -12,7 +12,7 @@ A simple command-line tool for encrypting, decrypting, and brute-forcing Caesar 
 
 ---
 
-## 🛠 Usage
+##  Usage
 
 ### Encrypt
 
@@ -34,7 +34,7 @@ python cli.py -m brute -t "khoor zruog"
 
 ---
 
-## 🧪 Example
+##  Example
 
 ```bash
 Input:  Pbhentr vf sbhaq va hayvxryl cynprf.
