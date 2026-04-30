@@ -9,23 +9,23 @@ This document tracks my progress through Hack The Box (HTB) machines and challen
 ## Statistics
 
 ### Overall Progress
-- **Total Machines Completed:** 4
+- **Total Machines Completed:** 5
 - **Active Machines:** 0
-- **Retired Machines:** 4
-- **Total Points:** ~100 (estimated)
+- **Retired Machines:** 5
+- **Total Points:** ~120 (estimated)
 - **Current Rank:** Noob/Script Kiddie
 - **Start Date:** [Date you started]
 - **Current Streak:** Active
 
 ### Difficulty Breakdown
-- **Easy:** 4 machines
+- **Easy:** 5 machines
 - **Medium:** 0 machines
 - **Hard:** 0 machines
 - **Insane:** 0 machines
 
 ### Category Distribution
-- **Web Exploitation:** 2 machines
-- **Linux:** 2 machines
+- **Web Exploitation:** 3 machines
+- **Linux:** 3 machines
 - **Windows:** 0 machines
 - **Active Directory:** 0 machines
 - **Forensics:** 0 machines
@@ -225,6 +225,56 @@ This document tracks my progress through Hack The Box (HTB) machines and challen
 - SSH key management
 - Web application vulnerabilities
 - Automated privilege escalation tools
+
+#### Flags Captured
+- **User Flag:** HTB{user_flag_here}
+- **Root Flag:** HTB{root_flag_here}
+
+---
+
+### 5. Cap 🧢
+**Difficulty:** Easy
+**Category:** Web Exploitation, Linux
+**Points:** 20
+**Completion Date:** April 30, 2026
+**Time to Complete:** [Time taken]
+
+#### Machine Information
+- **IP Address:** 10.10.10.245
+- **OS:** Linux
+- **Vulnerabilities Found:**
+  - Insecure Direct Object Reference (IDOR)
+  - Weak access controls in web application
+  - Linux capabilities misconfiguration
+
+#### Attack Path
+1. **Reconnaissance**
+   - Port scanning with nmap
+   - Web server identification
+
+2. **Initial Access**
+   - IDOR exploitation to access other user's network captures
+   - Credential extraction from PCAP file
+   - SSH login with discovered credentials
+
+3. **Privilege Escalation**
+   - Enumeration of Linux capabilities
+   - Exploitation of python3.8 with cap_setuid
+   - Root shell acquisition
+
+#### Tools Used
+- nmap
+- curl
+- wireshark/tcpdump
+- ssh
+- getcap
+- python
+
+#### Key Learnings
+- Insecure Direct Object Reference vulnerabilities
+- Network traffic analysis for credential harvesting
+- Linux capabilities and privilege escalation
+- Importance of proper authorization in web applications
 
 #### Flags Captured
 - **User Flag:** HTB{user_flag_here}
