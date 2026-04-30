@@ -4,7 +4,7 @@
 This document tracks my progress through Hack The Box (HTB) machines and challenges. HTB is a platform that provides virtual machines and challenges to practice penetration testing and cybersecurity skills.
 
 **Platform:** https://www.hackthebox.com
-**Profile:** [[Your HTB Profile Link]](https://app.hackthebox.com/users/3433464?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
+**Profile:** [[My HTB Profile Link]](https://app.hackthebox.com/users/3433464?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
 
 ## Statistics
 
@@ -78,8 +78,8 @@ This document tracks my progress through Hack The Box (HTB) machines and challen
 - Linux privilege escalation techniques
 
 #### Flags Captured
-- **User Flag:** HTB{user_flag_here}
-- **Root Flag:** HTB{root_flag_here}
+
+- **Root Flag:** b40abdfe23665f766f9c61ecba8a4c19
 
 ---
 
