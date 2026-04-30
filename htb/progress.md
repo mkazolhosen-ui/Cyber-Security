@@ -4,7 +4,7 @@
 This document tracks my progress through Hack The Box (HTB) machines and challenges. HTB is a platform that provides virtual machines and challenges to practice penetration testing and cybersecurity skills.
 
 **Platform:** https://www.hackthebox.com
-**Profile:** [Your HTB Profile Link]
+**Profile:** [[Your HTB Profile Link]](https://app.hackthebox.com/users/3433464?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
 
 ## Statistics
 
@@ -12,9 +12,9 @@ This document tracks my progress through Hack The Box (HTB) machines and challen
 - **Total Machines Completed:** 5
 - **Active Machines:** 0
 - **Retired Machines:** 5
-- **Total Points:** ~120 (estimated)
-- **Current Rank:** Noob/Script Kiddie
-- **Start Date:** [Date you started]
+- **Total Points:**  126 
+- **Current Rank:** Beginner
+- **Start Date:** 01-04-2026
 - **Current Streak:** Active
 
 ### Difficulty Breakdown
