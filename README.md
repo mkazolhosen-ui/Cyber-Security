@@ -27,13 +27,14 @@ I am a Computer Science student focused on building practical skills in **networ
 ## Labs & Practice
 
 ### Hack The Box Progress
-| Machine  | Difficulty | Status      | Notes                               |
-|----------|------------|-------------|-------------------------------------|
-| Meow     | Very Easy  | ✅ Completed | [Writeup](htb/machines/meow.md)     |
-| Fawn     | Very Easy  | ✅ Completed | [Writeup](htb/machines/fawn.md)     |
-| Dancing  | Very Easy  | ✅ Completed | [Writeup](htb/machines/dancing.md)  |
-| Redeemer | Very Easy  | ✅ Completed | [Writeup](htb/machines/redeemer.md) |
-| Cap      | Easy       |    Completed   | [Writeup](htb/machines/cap.md)      |
+
+| Machine   | Difficulty | Status        | Notes                              |
+|-----------|------------|--------------|------------------------------------|
+| Meow      | Very Easy  | ✅ Completed  | [Writeup](htb/machines/meow.md)    |
+| Fawn      | Very Easy  | ✅ Completed  | [Writeup](htb/machines/fawn.md)    |
+| Dancing   | Very Easy  | ✅ Completed  | [Writeup](htb/machines/dancing.md) |
+| Redeemer  | Very Easy  | ✅ Completed  | [Writeup](htb/machines/redeemer.md)|
+| Cap       | Easy       | ✅ Completed  | [Writeup](htb/machines/cap.md)     |
 
 
 ## Tools I Use
