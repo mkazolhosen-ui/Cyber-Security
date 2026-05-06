@@ -1,0 +1,28 @@
+package:
+  name: caesar-cipher-cli
+  version: 0.1.0
+
+source:
+  path: ..
+
+build:
+  script: python -m pip install . --no-deps --ignore-installed -vv
+
+requirements:
+  host:
+    - python
+    - pip
+    - setuptools
+  run:
+    - python
+
+test:
+  imports:
+    - caesar_cipher
+  commands:
+    - caesar-cli --help
+
+about:
+  home: https://github.com/yourusername/caesar-cipher-cli
+  license: MIT
+  summary: A CLI tool for Caesar cipher

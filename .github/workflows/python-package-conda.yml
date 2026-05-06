@@ -1,0 +1,26 @@
+name: Python Package Conda
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Conda
+      uses: conda-incubator/setup-miniconda@v3
+      with:
+        auto-update-conda: true
+    - name: Install conda-build
+      run: conda install conda-build
+    - name: Build package
+      run: conda build conda-recipe --output-folder dist
+    - name: Upload package artifacts
+      uses: actions/upload-artifact@v4
+      with:
+        name: conda-package
+        path: dist/**/*.tar.bz2
