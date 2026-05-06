@@ -136,6 +136,6 @@ Redis Enumeration & HTB Practice
 ### Next Steps
 
 * Practice more enumeration techniques
-* Start next HTB machine (Explosion / Preignition)
+* Start next HTB machine
 * Learn basic database security concepts
 
